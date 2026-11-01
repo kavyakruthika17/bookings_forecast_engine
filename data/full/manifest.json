@@ -1,0 +1,93 @@
+{
+  "tables": {
+    "stages": {
+      "row_count": 6,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\stages.csv",
+      "csv_sha256": "c11883e030402ad5f7eae0a5a632441d213a0c8126cf080003e0a0391e663242",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\stages.json",
+      "json_sha256": "45a137f29b00ed2911b854c4b206a7cf1e8725f6feb8a9bad2d6b59d4314fc56"
+    },
+    "territories": {
+      "row_count": 10,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\territories.csv",
+      "csv_sha256": "f26c979f2c531b7371880054f4b5e61a4a0547022a4ba431aa1de6ad967f7cc2",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\territories.json",
+      "json_sha256": "f398241784b4930b8a491b0535f495591998563dc6ed8aa41c2aa39fcc06ac18"
+    },
+    "sales_reps": {
+      "row_count": 2000,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\sales_reps.csv",
+      "csv_sha256": "4f3d4f4cea42e7b5da22a693d4cefd8e597756e95034bd499a9ecb5b19b4eedf",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\sales_reps.json",
+      "json_sha256": "a2f3d848cb099c61d907de50e0f463ea21bdaf12a86197a6fe3c72c51abae1ce"
+    },
+    "accounts": {
+      "row_count": 2000,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\accounts.csv",
+      "csv_sha256": "598226b2b070d6918d31ccb53d34e0a1c2811c4bc2cce4d8177482b514e36f31",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\accounts.json",
+      "json_sha256": "765100af7322aa14a45f438c5d31129abb96977f93757b1e67527dac2ee8780b"
+    },
+    "quotas": {
+      "row_count": 16000,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\quotas.csv",
+      "csv_sha256": "5ad5cec4e167cb1308ea8d299d1ca421f60107c007b1b073cef60001a0b8129d",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\quotas.json",
+      "json_sha256": "96304f3afb642faf6c954256d75e15105e54431a6392598c2190f18524d949a6"
+    },
+    "opportunities": {
+      "row_count": 20020,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\opportunities.csv",
+      "csv_sha256": "0377ac41ef254256cd6bc9ade0931377667729a39486eecbc63976dc0d3acb2a",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\opportunities.json",
+      "json_sha256": "446f3efb28acc2819441a439188257bcb460ceffe537694b1dfb4bdf0796c991"
+    },
+    "stage_histories": {
+      "row_count": 76080,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\stage_histories.csv",
+      "csv_sha256": "1a055edfa767efb523bc33acdf0e7784c9d7d0b6886a1503dcd9281651dd5c14",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\stage_histories.json",
+      "json_sha256": "f00648578eb5a0fd8cc7142919e152eb636c49fdd8b6944ff96158de24993898"
+    },
+    "activities": {
+      "row_count": 152429,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\activities.csv",
+      "csv_sha256": "dcc0bcd33848c1b256afbb1c05ef9c447a544fcf6bc9f685aa7c8e8aad093bb3",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\activities.json",
+      "json_sha256": "75ab848472f23cfb90cca02a6d6cdaf6862613827bda9d6a1c9ec241425f772a"
+    },
+    "historical_bookings": {
+      "row_count": 4870,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\historical_bookings.csv",
+      "csv_sha256": "0668360bf6d1fddc883014638d7d2dcdcb7c45e06bc8cbff72d2a9de19f6a05e",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\historical_bookings.json",
+      "json_sha256": "e04790124d0580c10eef6fb322e1198d947c3669d04e6d393303822166651047"
+    },
+    "forecast_snapshots": {
+      "row_count": 35646,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\forecast_snapshots.csv",
+      "csv_sha256": "321b117a47099209f2ab921e0e2357bc24531aec219785ca64fa82dc48a6ee14",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\forecast_snapshots.json",
+      "json_sha256": "65a3e867071be1932e9d6261b71e9c3408c36c924d340856ebd66369c00452da"
+    },
+    "ground_truth_anomalies": {
+      "row_count": 100,
+      "csv_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\csv\\ground_truth_anomalies.csv",
+      "csv_sha256": "d79cb034059aa2cba2a7386a98fb4779d6ff4e58fa6b4cb59d9f332da749802a",
+      "json_file": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\json\\ground_truth_anomalies.json",
+      "json_sha256": "dc8f0d33a086cbefb11702651f77d83cdec44d19e0016a4a77c0bd2ac47c0a0c"
+    }
+  },
+  "generated_files": [
+    {
+      "path": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\sql\\01_schema.sql",
+      "type": "SQL_SCHEMA",
+      "sha256": "6d0279c23b6cafe42ab501d1b95ca0f55668028368dfb6a176a934ebc9d24c42"
+    },
+    {
+      "path": "C:\\Users\\Naveen\\.gemini\\antigravity\\scratch\\bookings_forecast_engine\\data\\full\\sql\\02_seeds.sql",
+      "type": "SQL_SEEDS",
+      "sha256": "3e410a2e6785b2075c111266177fdfb08153b01793a38e153b244bd931b0b400"
+    }
+  ]
+}

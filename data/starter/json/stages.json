@@ -1,0 +1,62 @@
+[
+  {
+    "stage_id": "STG-01-PROSPECT",
+    "stage_order": 1,
+    "stage_name": "Prospecting",
+    "default_probability": 0.1,
+    "is_closed": false,
+    "is_won": false,
+    "target_duration_days": 15,
+    "description": "Initial qualification, lead inquiry, and need identification"
+  },
+  {
+    "stage_id": "STG-02-DISCOV",
+    "stage_order": 2,
+    "stage_name": "Discovery",
+    "default_probability": 0.25,
+    "is_closed": false,
+    "is_won": false,
+    "target_duration_days": 20,
+    "description": "Scoping requirements, pain-point analysis, stakeholder mapping"
+  },
+  {
+    "stage_id": "STG-03-PROP",
+    "stage_order": 3,
+    "stage_name": "Proposal",
+    "default_probability": 0.5,
+    "is_closed": false,
+    "is_won": false,
+    "target_duration_days": 30,
+    "description": "Formal proposal, technical architecture, and preliminary quote presented"
+  },
+  {
+    "stage_id": "STG-04-NEGOT",
+    "stage_order": 4,
+    "stage_name": "Negotiation",
+    "default_probability": 0.75,
+    "is_closed": false,
+    "is_won": false,
+    "target_duration_days": 20,
+    "description": "Contract redlining, legal/procurement review, pricing finalization"
+  },
+  {
+    "stage_id": "STG-05-WON",
+    "stage_order": 5,
+    "stage_name": "Closed Won",
+    "default_probability": 1.0,
+    "is_closed": true,
+    "is_won": true,
+    "target_duration_days": 0,
+    "description": "Contract fully executed, PO issued, booking confirmed"
+  },
+  {
+    "stage_id": "STG-06-LOST",
+    "stage_order": 6,
+    "stage_name": "Closed Lost",
+    "default_probability": 0.0,
+    "is_closed": true,
+    "is_won": false,
+    "target_duration_days": 0,
+    "description": "Deal abandoned, lost to competitor, or cancelled by prospect"
+  }
+]

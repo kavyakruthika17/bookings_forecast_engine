@@ -1,0 +1,7 @@
+stage_id,stage_order,stage_name,default_probability,is_closed,is_won,target_duration_days,description
+STG-01-PROSPECT,1,Prospecting,0.1,False,False,15,"Initial qualification, lead inquiry, and need identification"
+STG-02-DISCOV,2,Discovery,0.25,False,False,20,"Scoping requirements, pain-point analysis, stakeholder mapping"
+STG-03-PROP,3,Proposal,0.5,False,False,30,"Formal proposal, technical architecture, and preliminary quote presented"
+STG-04-NEGOT,4,Negotiation,0.75,False,False,20,"Contract redlining, legal/procurement review, pricing finalization"
+STG-05-WON,5,Closed Won,1.0,True,True,0,"Contract fully executed, PO issued, booking confirmed"
+STG-06-LOST,6,Closed Lost,0.0,True,False,0,"Deal abandoned, lost to competitor, or cancelled by prospect"

@@ -1,0 +1,11 @@
+territory_id,territory_name,region,segment,currency,target_growth_rate
+TERR-001,North America - Enterprise East,North America,Enterprise,USD,0.18
+TERR-002,North America - Enterprise West,North America,Enterprise,USD,0.22
+TERR-003,North America - Mid-Market Central,North America,Mid-Market,USD,0.15
+TERR-004,North America - Commercial SMB,North America,SMB,USD,0.12
+TERR-005,EMEA - UK & Ireland Enterprise,EMEA,Enterprise,GBP,0.16
+TERR-006,EMEA - DACH & Northern Europe,EMEA,Enterprise,EUR,0.14
+TERR-007,EMEA - Southern Europe Mid-Market,EMEA,Mid-Market,EUR,0.11
+TERR-008,APAC - ANZ & ASEAN Enterprise,APAC,Enterprise,SGD,0.25
+TERR-009,APAC - Growth Commercial,APAC,Mid-Market,USD,0.2
+TERR-010,LATAM - Strategic Accounts,LATAM,Enterprise,USD,0.17
